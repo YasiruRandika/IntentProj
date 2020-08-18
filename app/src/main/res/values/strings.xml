@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentProj</string>
+    <string name="number1">Number1</string>
+    <string name="number2">Number2</string>
+    <string name="ok">OK</string>
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="enter_number_1">Enter Number 1</string>
+    <string name="calculation_display_here">Calculation Display Here</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+</resources>
